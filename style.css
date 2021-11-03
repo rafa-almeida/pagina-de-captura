@@ -1,0 +1,93 @@
+body{
+    background-image: url(img/background.png);
+    font-family: 'Lato', sans-serif;
+    background-size: cover;
+    background-image: no-repeat;
+    background-attachment: fixed;
+    color: white;  
+}
+
+img{
+    width: 80px;
+    
+}
+
+h1{
+    font-style:italic;
+    margin: 10px 0;
+    margin-bottom: 0px;
+}
+
+h2{
+    margin-top: 2px;
+}
+
+h3{
+    font-size: 15px;
+}
+
+.container{
+    text-shadow: 5px 1px 20px;
+    margin: 230px 80px;
+    text-align: center;
+    width: 90%;
+    list-style: none;
+    font-size: 20px;
+}
+
+.container li{
+    list-style: none;
+    
+}
+
+.input{
+    width: 46%;
+    height: 15px;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.email{
+    margin-top: 8px;
+}
+
+.checkbox{
+    width: 54%;
+    display: inline-block;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.button{
+    width: 48%;
+    background: rgba(6, 90, 247, 0.904);
+    color: white;
+    text-align:center;
+    margin-top: 15px;
+    height: 40px; 
+}
+
+button:hover{
+    background: rgb(13, 38, 180);
+}
+
+.photo{
+    background-image: url(img/inscricao.jpg);
+    background-size: cover;
+    background-image: no-repeat;
+    background-attachment: fixed;
+}
+
+.h1{
+    font-size:45px;
+    text-align: center;
+    margin: 130px 0 0;
+    text-shadow: 5px 1px 20px;       
+}
+
+.h2{
+    font-size:30px;
+    text-align: center;
+    margin-top: 40px;
+    text-shadow: 5px 1px 20px;
+}
